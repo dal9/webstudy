@@ -2,7 +2,6 @@
 <project-modules id="moduleCoreId" project-version="2.0">
 	<wb-module deploy-name="web12gradle">
 		<property name="context-root" value="web12gradle"/>
-		<wb-resource deploy-path="/WEB-INF/classes" source-path="src/main/resources"/>
 		<wb-resource deploy-path="/WEB-INF/classes" source-path="src/main/java"/>
 		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/dal9/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/4.0.3.RELEASE/782a71a312dc307fa531023aa66247b9b4a109d/spring-context-4.0.3.RELEASE.jar">
 			<dependency-type>uses</dependency-type>
